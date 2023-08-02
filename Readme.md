@@ -1,4 +1,4 @@
-# Task for intern 1
+# Task for intern 2
 
 - Fork this repo
 - Clone it on your machine
